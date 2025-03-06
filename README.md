@@ -1,3 +1,3 @@
 # NewProject
 
-This project was created.
+This project was created
